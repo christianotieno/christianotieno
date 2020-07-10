@@ -11,7 +11,7 @@ I love bumping into challenging algorithmic tasks which makes me think hard and 
 - Full-stack development (NodeJS, PostgreSQL, Django, React, Redux, Rails & HTML/CSS),
 - UI and UX Design,
 - Product Management,
-- Prototyping and Wire-framing
+- Prototyping and Wire-framing,
 - Delving into Machine Learning projects,
 - A bit of Social Media Management & Marketing.
 
