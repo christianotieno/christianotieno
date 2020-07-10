@@ -20,6 +20,6 @@ I am passionate about ideating, conceptualising and producing consumer-centric a
 ## Get in touch
 
 - medium: [@christianotieno](https://medium.com/@christianotieno)
-- twitter: [@chrisotieno](https://twitter.com/iamchrisotieno)
+- twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
 - linkedin: [@christianotieno](https://www.linkedin.com/in/christianotieno/)
 - anglelist: [@christianotieno](https://angel.co/u/christianotieno)
