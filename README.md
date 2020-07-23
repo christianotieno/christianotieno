@@ -17,6 +17,10 @@ I love bumping into challenging algorithmic tasks which makes me think hard and 
 
 I am passionate about ideating, conceptualising and producing consumer-centric as well as B2B technology and technology-enabled products from level zero. As a result, I am open to exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
+## Stats
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=christianotieno&hide=["issues"]&show_icons=true&theme=dark)
+
 ## Get in touch
 
 - medium: [@christianotieno](https://medium.com/@christianotieno)
