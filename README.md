@@ -11,7 +11,7 @@ I love bumping into challenging algorithmic tasks which makes me think hard and 
 - Full-stack development (NodeJS, PostgreSQL, Django, React, Redux, Rails & HTML/CSS),
 - UI and UX Design,
 - Product Management,
-- Prototyping and Wire-framing
+- Prototyping and Wire-framing,
 - Delving into Machine Learning projects,
 - A bit of Social Media Management & Marketing.
 
@@ -23,7 +23,7 @@ I am passionate about ideating, conceptualising and producing consumer-centric a
 
 ## Get in touch
 
+- twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
 - medium: [@christianotieno](https://medium.com/@christianotieno)
-- twitter: [@chrisnotieno](https://twitter.com/iamchrisotieno)
-- linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
 - anglelist: [@christianotieno](https://angel.co/u/christianotieno)
+- linkedin: [@christianotieno](https://www.linkedin.com/in/christianotieno/)
