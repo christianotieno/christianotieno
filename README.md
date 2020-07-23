@@ -19,7 +19,7 @@ I am passionate about ideating, conceptualising and producing consumer-centric a
 
 ## Stats
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=christianotieno&hide=["issues"]&show_icons=true&theme=dark)
+![Christian Otieno's github stats](https://github-readme-stats.vercel.app/api?username=christianotieno&hide=["issues"]&show_icons=true&theme=dark)
 
 ## Get in touch
 
