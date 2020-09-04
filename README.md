@@ -8,7 +8,7 @@ I love bumping into challenging algorithmic tasks which makes me think hard and 
 
 ## In my years of experience, I've developed extensive knowledge in
 
-- Full-stack development (NodeJS, PostgreSQL, Django, React, Redux, Rails & HTML/CSS),
+- Full-stack development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS),
 - UI and UX Design,
 - Product Management,
 - Prototyping and Wire-framing,
