@@ -6,12 +6,12 @@ I have hands-on experience in designing, developing and maintaining software by 
 
 ## In my years of experience, I've developed extensive knowledge in
 
-- Full-stack development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS),
 - UI and UX Design,
 - Product Management,
 - Prototyping and Wire-framing,
 - Delving into Machine Learning projects,
 - A bit of Social Media Management & Marketing.
+- Full-stack development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
 
 
 ## Get in touch
