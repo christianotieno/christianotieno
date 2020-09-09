@@ -2,9 +2,7 @@
 
 I am currently open to new full-stack development opportunities in global Tech Products & Startups.
 
-I have hands-on experience in designing, developing and maintaining software by bringing together a vision, strategy, and execution in an unstructured and resource-constrained environment.
-
-I love bumping into challenging algorithmic tasks which makes me think hard and learn something new in the process.
+I have hands-on experience in designing, developing and maintaining software by bringing together a vision, strategy, and execution in an unstructured and resource-constrained environment. I am passionate about ideating, conceptualising and producing consumer-centric as well as B2B technology and technology-enabled products from level zero.
 
 ## In my years of experience, I've developed extensive knowledge in
 
@@ -15,7 +13,6 @@ I love bumping into challenging algorithmic tasks which makes me think hard and 
 - Delving into Machine Learning projects,
 - A bit of Social Media Management & Marketing.
 
-I am passionate about ideating, conceptualising and producing consumer-centric as well as B2B technology and technology-enabled products from level zero.
 
 ## Get in touch
 
