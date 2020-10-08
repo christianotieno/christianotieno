@@ -21,7 +21,23 @@ I am currently open to new full-stack development opportunities in global Tech P
 - [List of Algorithms To Make You More Dangerous.](https://medium.com/@christianotieno/list-of-algorithms-to-make-you-more-dangerous-36626dbec5c?source=rss-ab43926bbcb5------2)
 - [How to design your personalised, Grid-Based Framework, step by step, from scratch. A guide.](https://medium.com/@christianotieno/how-to-design-your-personalised-grid-based-framework-step-by-step-from-scratch-a-guide-25f29c44fcf9?source=rss-ab43926bbcb5------2)
 <!-- BLOG-POST-LIST:END -->
----
+
+<details>
+  <summary>🥇 <b>GitHub Stats</b></summary>
+  <img alt="Christian's github stats" src= "https://github-readme-stats.vercel.app/api?username=christianotieno&show_icons=true&theme=cobalt&hide_border=true" />
+</details>
+
+<details>
+  <summary>:computer: <b>Most Used Languages</b> </summary>
+  <img alt="top langs used" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=christianotieno&layout=compact&show_icons=true&theme=cobalt" />
+</details>
+
+<details>
+  <summary>:zap: <b>Recent GitHub Activity</b></summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
 ### Connect with me:
 
 [<img align="left" alt="christianotieno.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -53,21 +69,6 @@ I am currently open to new full-stack development opportunities in global Tech P
 <br />
 
 ---
-<details>
-  <summary>🥇 <b>GitHub Stats</b></summary>
-  <img alt="Christian's github stats" src= "https://github-readme-stats.vercel.app/api?username=christianotieno&show_icons=true&theme=cobalt&hide_border=true" />
-</details>
-
-<details>
-  <summary>:computer: <b>Most Used Languages</b> </summary>
-  <img alt="top langs used" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=christianotieno&layout=compact&show_icons=true&theme=cobalt" />
-</details>
-
-<details>
-  <summary>:zap: <b>Recent GitHub Activity</b></summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</details>
 
 [portfolio]: https://christianotieno.dev
 [twitter]: https://twitter.com/iamchrisotieno
