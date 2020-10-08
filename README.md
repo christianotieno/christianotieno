@@ -4,16 +4,13 @@
 
 I am currently open to new full-stack development opportunities in global Tech Products & Startups.
 
-I have hands-on experience in designing, developing and maintaining software by bringing together a vision, strategy, and execution in an unstructured and resource-constrained environment. I am passionate about ideating, conceptualising and producing consumer-centric as well as B2B technology and technology-enabled products from level zero.
-
 ## In my years of experience, I've developed extensive knowledge in
 
 - UI and UX Design,
 - Product Management,
 - Prototyping and Wire-framing,
-- Delving into Machine Learning projects,
-- A bit of Social Media Management & Marketing.
-- Full-stack development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
+- Full-stack web development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
+---
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,6 +20,15 @@ I have hands-on experience in designing, developing and maintaining software by 
 - [List of Algorithms To Make You More Dangerous.](https://medium.com/@christianotieno/list-of-algorithms-to-make-you-more-dangerous-36626dbec5c?source=rss-ab43926bbcb5------2)
 - [How to design your personalised, Grid-Based Framework, step by step, from scratch. A guide.](https://medium.com/@christianotieno/how-to-design-your-personalised-grid-based-framework-step-by-step-from-scratch-a-guide-25f29c44fcf9?source=rss-ab43926bbcb5------2)
 <!-- BLOG-POST-LIST:END -->
+---
+### Latest Github Stats
+![Christian's github stats](https://github-readme-stats.vercel.app/api?username=christianotieno&show_icons=true&theme=cobalt)
+
+---
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianotieno&layout=compact&show_icons=true&theme=cobalt)](https://github.com/christianotieno/github-readme-stats)
+---
 
 ### Get in touch
 
