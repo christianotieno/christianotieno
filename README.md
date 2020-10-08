@@ -41,7 +41,7 @@ I am currently open to new full-stack development opportunities in global Tech P
 </details>
 
 ---
- 
+
 ### Connect with me:
 
 [<img align="left" alt="christianotieno.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
