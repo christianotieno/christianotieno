@@ -1,4 +1,6 @@
-# Full-Stack Web Developer | Student | Mentor
+# Hi there, my name is Christian
+
+## I am a Full-Stack Web Developer, Technical Writer & Mentor
 
 I am currently open to new full-stack development opportunities in global Tech Products & Startups.
 
@@ -13,8 +15,11 @@ I have hands-on experience in designing, developing and maintaining software by 
 - A bit of Social Media Management & Marketing.
 - Full-stack development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Get in touch
+### Get in touch
 
 - twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
 - medium: [@christianotieno](https://medium.com/@christianotieno)
