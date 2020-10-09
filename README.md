@@ -1,4 +1,4 @@
-# Hi there, my name is Christian 
+# Hi there, my name is Christian Otieno
 
 ## I am a Full-Stack Web Developer, Technical Writer & Mentor
 
