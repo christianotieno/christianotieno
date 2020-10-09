@@ -25,17 +25,7 @@ I am currently open to new full-stack development opportunities in global Tech P
 ---
 
 <details>
-  <summary>🥇 <b>GitHub Stats</b></summary>
-  <img alt="Christian's github stats" src= "https://github-readme-stats.vercel.app/api?username=christianotieno&show_icons=true&theme=cobalt&hide_border=true" />
-</details>
-
-<details>
-  <summary>:computer: <b>Most Used Languages</b> </summary>
-  <img alt="top langs used" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=christianotieno&layout=compact&show_icons=true&theme=cobalt" />
-</details>
-
-<details>
-  <summary>:construction: <b>Languages and Tools</b></summary>
+  <summary>:construction: <b>Tech Stack: Languages and Tools</b></summary>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -53,8 +43,16 @@ I am currently open to new full-stack development opportunities in global Tech P
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />  
 </details>
-
 <br />
+<details>
+  <summary>:computer: <b>Most Used Languages</b> </summary>
+  <img alt="top langs used" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=christianotieno&layout=compact&show_icons=true&theme=cobalt" />
+</details>
+<br />
+<details>
+  <summary>🥇 <b>GitHub Stats</b></summary>
+  <img alt="Christian's github stats" src= "https://github-readme-stats.vercel.app/api?username=christianotieno&show_icons=true&theme=cobalt&hide_border=true" />
+</details>
 
 ---
 
@@ -66,6 +64,7 @@ I am currently open to new full-stack development opportunities in global Tech P
 [<img align="left" alt="christianotieno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 [<img align="left" alt="christianotieno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
 
+<br />
 ---
 
 [portfolio]: https://christianotieno.dev
