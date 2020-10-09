@@ -65,6 +65,7 @@ I am currently open to new full-stack development opportunities in global Tech P
 [<img align="left" alt="christianotieno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
 
 <br />
+
 ---
 
 [portfolio]: https://christianotieno.dev
