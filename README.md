@@ -9,7 +9,7 @@ I am currently open to new full-stack development opportunities in global tech P
 - UI and UX Design,
 - Product Management,
 - Prototyping and Wire-framing,
-- Pair programming (collaboratiove work),
+- Pair-programming (collaborative work),
 - Full-stack web development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
 
 ---
