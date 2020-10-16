@@ -1,14 +1,15 @@
-# Hi there, my name is Christian Otieno
+# Hi there, my name is Christian Otieno.
 
 ## I am a Full-Stack Web Developer, Technical Writer & Mentor
 
-I am currently open to new full-stack development opportunities in global Tech Products & Startups.
+I am currently open to new full-stack development opportunities in global tech Products & Startups.
 
 ## In my years of experience, I've developed extensive knowledge in
 
 - UI and UX Design,
 - Product Management,
 - Prototyping and Wire-framing,
+- Pair programming (collaboratiove work),
 - Full-stack web development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails & HTML/CSS).
 
 ---
