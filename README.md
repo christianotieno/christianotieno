@@ -1,6 +1,6 @@
 # Hi there, my name is Christian Otieno.
 
-## I am a Full-Stack Web Developer, Technical Writer & Mentor
+## I am a Full-Stack Developer, Technical Writer & Mentor
 
 I am currently open to new full-stack development opportunities.
 
