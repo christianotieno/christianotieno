@@ -7,7 +7,7 @@ I am currently open to new software engineering opportunities.
 ## I have experience in:
 - Working Remotely,
 - Pair-programming (collaborative work),
-- Full-stack web development (Ruby, JavaScript, PostgreSQL, React & Redux, Ruby on Rails, version control & HTML/CSS).
+- Full-stack web development (Ruby, Python, JavaScript, Rails, Django, React & Redux).
 
 ---
 
