@@ -1,4 +1,4 @@
-### I am a Full-stack web developer who works with Ruby, Python, JavaScript, Rails, Django, React & Redux).
+### I am a Full-stack web developer; works with Ruby, Python, JavaScript, Rails, Django, and React.
 
 ---
 
