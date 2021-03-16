@@ -1,15 +1,8 @@
-## I am a Software Engineer, Technical Writer & Mentor
-
-I am currently open to new software engineering opportunities.
-
-## I have experience in:
-- Working Remotely,
-- Pair-programming (collaborative work),
-- Full-stack web development (Ruby, Python, JavaScript, Rails, Django, React & Redux).
+### I am a Full-stack web developer who works with Ruby, Python, JavaScript, Rails, Django, React & Redux).
 
 ---
 
-### Latest Blog posts
+#### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring the differences between Promises and Callbacks in JavaScript](https://medium.com/swlh/exploring-the-differences-between-promises-and-callbacks-in-javascript-8e5ae2cdc33f?source=rss-ab43926bbcb5------2)
@@ -20,7 +13,7 @@ I am currently open to new software engineering opportunities.
 
 ---
 
-### Connect with me
+#### Connect with me
 
 [<img align="left" alt="christianotieno.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="christianotieno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
