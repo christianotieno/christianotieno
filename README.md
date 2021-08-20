@@ -14,8 +14,6 @@
 ---
 
 #### Connect with me
-
-[<img align="left" alt="christianotieno.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="christianotieno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christianotieno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="christianotieno | Angellist" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
@@ -25,8 +23,6 @@
 <br />
 
 ---
-
-[portfolio]: https://christianotieno.dev
 [twitter]: https://twitter.com/iamchrisotieno
 [linkedin]: https://linkedin.com/in/christianotieno
 [medium]: https://medium.com/@christianotieno
