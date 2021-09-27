@@ -1,7 +1,3 @@
-### I am a Full-stack web developer; works with Ruby, Python, JavaScript, Rails, Django, and React.
-
----
-
 #### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -26,5 +22,3 @@
 [twitter]: https://twitter.com/iamchrisotieno
 [linkedin]: https://linkedin.com/in/christianotieno
 [medium]: https://medium.com/@christianotieno
-[angellist]: https://angel.co/u/christianotieno
-[dev-dot-to]: https://dev.to/christianotieno
